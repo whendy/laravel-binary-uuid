@@ -1,3 +1,4 @@
+# This package is forking, and used for upgrade to laravel 5.8
 **THIS PACKAGE IS NOT MAINTAINED ANYMORE**
 
 Alternatives: https://github.com/michaeldyrynda/laravel-efficient-uuid & https://github.com/michaeldyrynda/laravel-model-uuid
